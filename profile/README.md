@@ -1,6 +1,6 @@
 ## Hi there, we are Dayly!👋
 
-🙋‍♀️Hi, we are Team **Dayly** in Hansung University 🧀
+🙋‍♀️Hi, we are Team **Dayly** in Hansung University ❤️
 
 ### 👨‍👩‍👧‍👧Team Members
 <table>
