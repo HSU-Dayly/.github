@@ -6,7 +6,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/ssilverrain"><img src="https://github.com/HSU-REPLAY/.github/assets/109191101/af3a4bd0-7ac2-4f50-a58a-8801ab432139" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/ssilverrain"><img src="https://github.com/user-attachments/assets/4a33c44a-2c88-451d-9e09-4a0bc47871ae" width="150px;" alt=""/><br /><sub><b>김은비</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/flsrinn"><img src="https://github.com/HSU-REPLAY/.github/assets/123474937/e30e29de-f541-41fc-b5cf-bd8569d64990" width="150px;" alt=""/><br /><sub><b>전아린</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/sseyeonn"><img src="https://github.com/user-attachments/assets/ccff23b6-873c-4a70-b58a-a1038c6de7d6" width="150px;" alt=""/><br /><sub><b>정세연</b></sub></a><br /></td>
       <td align="center"><a href="https://github.com/niroey"><img src="https://github.com/HwangCheese/.github/assets/121416032/04fb092e-823c-4188-ab6c-1659e19b2187" width="150px;" alt=""/><br /><sub><b>하여린</b></sub></a><br /></td>
